@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keerthana9073-rgithubio.vercel.app/sitemap.xml
